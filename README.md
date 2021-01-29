@@ -1,6 +1,5 @@
 # Seattle Housing Predictions
-![house](house.jpg)
-
+![alt text](https://github.com/alwaysongoogle247/housing_predictions/blob/main/images/house.jpg "Logo Title Text 1")
 ## Overview
 Performed data cleaning, data analysis, feature engineering, feature selection and stats, to create a regression model that best predicted housing prices in Seattle, WA.
 
